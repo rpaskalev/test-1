@@ -1,3 +1,3 @@
 #!/bin/bash
 
-psql -h hoset -W 'hdud74fwhd8ehd';
+psql -h hoset -Wt;
